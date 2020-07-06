@@ -1,2 +1,2 @@
-# ipspeak
-Chat platform using web sockets.
+# IPSpeak
+coming soon...
